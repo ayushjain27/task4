@@ -8,6 +8,10 @@
     animation: upDown 2s linear alternate-reverse infinite;
 }
 
+.cardCarousel {
+    height: 435px;
+}
+
 .card:hover,
 .cardCarousel:hover {
     box-shadow:
@@ -22,21 +26,5 @@
 @media (max-width: 767.5px) {
     .cardCarousel {
         margin-top: 2rem !important;
-    }
-}
-
-@media (max-width: 450px) {
-
-    th,
-    td {
-        font-size: x-small !important;
-    }
-}
-
-@media (max-width: 330px) {
-
-    th,
-    td {
-        font-size: xx-small !important;
     }
 }
