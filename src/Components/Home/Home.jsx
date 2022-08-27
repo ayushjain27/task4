@@ -2,6 +2,7 @@ import React from 'react';
 import CarouselImage from '../Carousel/CarouselImage';
 import Intership from '../Intership/Intership';
 import IntershipCourses from '../IntershipCourses/IntershipCourses';
+import Selection from '../Selection/Selection';
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
         <CarouselImage />
       </div>
         <Intership />
+        <Selection />
         <IntershipCourses />
     </>
   )

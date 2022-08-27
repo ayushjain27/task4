@@ -9,7 +9,7 @@ const Courses = () => {
       <h4>Popular Categories</h4>
     </div>
       <div className="d-flex flex-wrap justify-content-center">
-        <a className="my-3" href="https://trainings.internshala.com/web-development-course/?utm_source=is_web_IS-home-midsection_web1" target="_blank"  rel="noreferrer">
+        <a className="my-3" href="https://internshala.com/internships/part-time-jobs/" target="_blank"  rel="noreferrer">
         <div className={`${styles.card} card`} style={{ width: "160px" }}>
           <img src="./Images/part_time.svg" className="card-img-top" alt="..." />
           <div className="card-body">
@@ -17,7 +17,7 @@ const Courses = () => {
           </div>
         </div>
         </a>
-        <a className="my-3" href="https://trainings.internshala.com/python-course/?utm_source=is_web_IS-home-midsection_web2" target="_blank"  rel="noreferrer">
+        <a className="my-3" href="https://internshala.com/internships/engineering-internship/" target="_blank"  rel="noreferrer">
         <div className={`${styles.card} card`} style={{ width: "160px" }}>
           <img src="./Images/engineering.svg" className="card-img-top" alt="..." />
           <div className="card-body">
@@ -25,7 +25,7 @@ const Courses = () => {
           </div>
         </div>
         </a>
-        <a className="my-3" href="https://trainings.internshala.com/machine-learning-course/?utm_source=is_web_IS-home-midsection_web4" target="_blank"  rel="noreferrer">
+        <a className="my-3" href="https://internshala.com/internships/ngo-internship/" target="_blank"  rel="noreferrer">
         <div className={`${styles.card} card`} style={{ width: "160px" }}>
           <img src="./Images/ngo.svg" className="card-img-top" alt="..." />
           <div className="card-body">
@@ -33,7 +33,7 @@ const Courses = () => {
           </div>
         </div>
         </a>
-        <a className="my-3" href="https://trainings.internshala.com/excel-course/?utm_source=is_web_IS-home-midsection_web5" target="_blank"  rel="noreferrer">
+        <a className="my-3" href="https://internshala.com/internships/mba-internship/" target="_blank"  rel="noreferrer">
         <div className={`${styles.card} card`} style={{ width: "160px" }}>
           <img src="./Images/business_mba.svg" className="card-img-top" alt="..." />
           <div className="card-body">
@@ -41,7 +41,7 @@ const Courses = () => {
           </div>
         </div>
         </a>
-        <a className="my-3" href="https://trainings.internshala.com/autocad-course/?utm_source=is_web_IS-home-midsection_web6" target="_blank"  rel="noreferrer">
+        <a className="my-3" href="https://internshala.com/internships/graphic-design-internship/" target="_blank"  rel="noreferrer">
         <div className={`${styles.card} card`} style={{ width: "160px" }}>
           <img src="./Images/design.svg" className="card-img-top" alt="..." />
           <div className="card-body">
@@ -49,7 +49,7 @@ const Courses = () => {
           </div>
         </div>
         </a>
-        <a className="my-3" href="https://trainings.internshala.com/data-science-beginner-course/?utm_source=is_web_IS-home-midsection_web7" target="_blank"  rel="noreferrer">
+        <a className="my-3" href="https://internshala.com/internships/science-internship/" target="_blank"  rel="noreferrer">
         <div className={`${styles.card} card`} style={{ width: "160px" }}>
           <img src="./Images/science.svg" className="card-img-top" alt="..." />
           <div className="card-body">
@@ -57,7 +57,7 @@ const Courses = () => {
           </div>
         </div>
         </a>
-        <a className="my-3" href="https://trainings.internshala.com/c-plus-plus-course/?utm_source=is_web_IS-home-midsection_web8" target="_blank"  rel="noreferrer">
+        <a className="my-3" href="https://internshala.com/internships/media-internship/" target="_blank"  rel="noreferrer">
         <div className={`${styles.card} card`} style={{ width: "160px" }}>
           <img src="./Images/media.svg" className="card-img-top" alt="..." />
           <div className="card-body">
@@ -65,7 +65,7 @@ const Courses = () => {
           </div>
         </div>
         </a>
-        <a className="my-3" href="https://trainings.internshala.com/digital-marketing-course/?utm_source=is_web_IS-home-midsection_web3" target="_blank"  rel="noreferrer">
+        <a className="my-3" href="https://internshala.com/internships/humanities-internship/" target="_blank"  rel="noreferrer">
         <div className={`${styles.card} card`} style={{ width: "160px" }}>
           <img src="./Images/humanities.svg" className="card-img-top" alt="..." />
           <div className="card-body">
