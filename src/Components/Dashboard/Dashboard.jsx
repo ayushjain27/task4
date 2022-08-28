@@ -98,16 +98,20 @@ const Dashboard = () => {
         <h5>What can you do today?</h5>
         <div className="d-flex flex-wrap gap-2 mt-3">
           <button
-            onClick={() => navigate("/create")}
             className="btn btn-warning"
           >
             New Job Posted
           </button>
           <button
-            onClick={() => navigate("/interaction")}
             className="btn btn-warning"
           >
             Job Applied
+          </button>
+          <button
+            onClick={() => navigate("/widgets")}
+            className="btn btn-warning"
+          >
+            Widgets
           </button>
         </div>
       </div>

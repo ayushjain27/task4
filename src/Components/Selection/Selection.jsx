@@ -13,7 +13,7 @@ const Selection = () => {
                 </div>
                 <div className="col-md-3 position-relative">
                     <img className={`${styles.card} w-100 h-100`} src="./Images/download.jpeg" alt="" />
-                    <p className={`${styles.text} position-absolute bottom-0 left-0 p-3 me-4 text-white fw-bold`}>Riya jain in Microsoft with <span style={{color: 'yellow'}}>10000</span> stipend</p>
+                    <p className={`${styles.text} position-absolute bottom-0 left-0 p-3 me-4 text-white fw-bold`}>Sudha Bansal in Google with <span style={{color: 'yellow'}}>25000</span> stipend</p>
                 </div>
                 <div className="col-md-3 position-relative">
                     <img className={`${styles.card} w-100 h-100`} src="./Images/images.jpeg" alt="" />
@@ -21,7 +21,7 @@ const Selection = () => {
                 </div>
                 <div className="col-md-3 position-relative">
                     <img className={`${styles.card} w-100 h-100`} src="./Images/download (2).jpeg" alt="" />
-                    <p className={`${styles.text} position-absolute bottom-0 left-0 p-3 me-4 text-white fw-bold`}>Sudha Bansal in Google with <span style={{color: 'yellow'}}>20000</span> stipend</p>
+                    <p className={`${styles.text} position-absolute bottom-0 left-0 p-3 me-4 text-white fw-bold`}>Riya jain in Microsoft with <span style={{color: 'yellow'}}>10000</span> stipend</p>
                 </div>
             </div>
         </div>

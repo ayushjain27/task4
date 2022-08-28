@@ -7,6 +7,7 @@ import Home from './Components/Home/Home';
 import Login from './Components/Login/Login';
 import SignUp from './Components/SignUp/SignUp';
 import ForgetPassword from './Components/ForgetPassword/ForgetPassword';
+import Widgets from './Components/Widgets/Widgets';
 
 function App() {
   return (
@@ -14,11 +15,12 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route exact path='/dashboard' element={<Dashboard />} />
           <Route exact path='/' element={<Home />} />
+          <Route exact path='/dashboard' element={<Dashboard />} />
           <Route exact path='/login' element={<Login />} />
           <Route exact path='/resetPassword' element={<ForgetPassword />} />
           <Route exact path='/register' element={<SignUp />} />
+          <Route exact path='/widgets' element={<Widgets />} />
         </Routes>
       </Router>
     </>
