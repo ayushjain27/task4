@@ -5,8 +5,7 @@ const WidgetsContent = (props) => {
 
   const updateNews = async () => {
     const response = await fetch(
-      `https://newsapi.org/v2/top-headlines?country=us&category=${props.category}&apiKey=6b85969e38eb4ab99e6d198f808d1567&pageSize=3`
-
+      `https://newsapi.org/v2/top-headlines?country=us&category=${props.category}&apiKey=8ad4546b25ec4fac8909506a3f720c7e&pageSize=3`
     );
     const json = await response.json();
     console.log(json.articles);
